@@ -4,10 +4,10 @@
 
 1. Run ```pip install -r requirements.txt```
 2. You will need a token for your bot. To get one, go to https://twitchtokengenerator.com/
-3. You need to see 3 environmental variables:
-3a. ```token``` which is your new token you created in step 2
-3b. ```prefix``` which is the character that will begin all your commands in chat. For instance, I chose an "!" so my commands look like ```!command```
-3c. ```initial_channel``` which is just your channel, so for instance mine is ```dove06```
+3. You need to see 3 environmental variables:<br>
+3a. ```token``` which is your new token you created in step 2<br>
+3b. ```prefix``` which is the character that will begin all your commands in chat. For instance, I chose an "!" so my commands look like ```!command```<br>
+3c. ```initial_channel``` which is just your channel, so for instance mine is ```dove06```<br>
 
 ## Warnings
 
