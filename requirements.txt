@@ -1,0 +1,15 @@
+aiohttp==3.7.4.post0
+async-timeout==3.0.1
+attrs==21.4.0
+chardet==4.0.0
+comtypes==1.1.10
+idna==3.3
+iso8601==1.0.2
+multidict==5.2.0
+pynput==1.7.6
+pywin32==303
+pywinauto==0.6.8
+six==1.16.0
+twitchio==2.1.4
+typing-extensions==4.0.1
+yarl==1.7.2
