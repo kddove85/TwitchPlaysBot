@@ -2,6 +2,8 @@
 
 ## Installation
 
+Assuming you already have python installed. If not, head to https://www.python.org/
+
 1. Run ```pip install -r requirements.txt```
 2. You will need a token for your bot. To get one, go to https://twitchtokengenerator.com/
 3. You need to see 3 environmental variables:<br>
