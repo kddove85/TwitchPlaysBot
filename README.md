@@ -9,6 +9,12 @@
 3b. ```prefix``` which is the character that will begin all your commands in chat. I chose an "!" so my commands look like ```!command```<br>
 3c. ```initial_channel``` which is just your channel, so for instance mine is ```dove06```<br>
 
+## Uses
+
+Once the bot is set up and running, you will have to give it mod status if you want it to be used in your channel (I'm pretty sure).
+I've set this up to play Chrono Trigger on Steam by default. When the bot is running, use the command ```!list_commands``` in a channel's chat.<br><br>
+If you have an instance of Chrono Trigger (Steam version) running, the bot should be able to interact with the game through commands in chat.
+
 ## Warnings
 
 You may receive the following error:<br><br>
